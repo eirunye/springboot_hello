@@ -1,10 +1,8 @@
 # springboot_hello
 ## 如何创建Spring Boot 项目？
 接下来我们将学习如何创建第一个Spring Boot项目 ***hello Spring Boot!*** 呢？
-<div style="align: center">
-<img src="https://upload-images.jianshu.io/upload_images/3012005-ab363c756e658c99.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/650"/>
-</div>
-<div align=center>![Spring Boot.jpg](https://upload-images.jianshu.io/upload_images/3012005-ab363c756e658c99.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)</div>
+
+![Spring Boot.jpg](https://upload-images.jianshu.io/upload_images/3012005-ab363c756e658c99.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
 
 > **一、我们将以 IntelliJ IDEA 开发工具为例创建Spring Boot项目**
 
