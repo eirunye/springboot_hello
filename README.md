@@ -100,7 +100,7 @@
 <div align="center">
     <img src="https://upload-images.jianshu.io/upload_images/3012005-9bf6556f71b9fad4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
 </div> 
-![运行项目1.png](https://upload-images.jianshu.io/upload_images/3012005-9bf6556f71b9fad4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
+
 <div align="center">
     <img src="https://upload-images.jianshu.io/upload_images/3012005-5614d3b09ec72898.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
 </div> 
