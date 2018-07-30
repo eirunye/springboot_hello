@@ -1,4 +1,4 @@
-# springboot_hello
+
 ## 如何创建Spring Boot 项目？
 接下来我们将学习如何创建第一个Spring Boot项目 ***hello Spring Boot!*** 呢？
 
