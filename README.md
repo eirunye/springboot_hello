@@ -24,7 +24,7 @@
 ![创建3.png](https://upload-images.jianshu.io/upload_images/3012005-6887d50074b04b23.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
 
     4. 选择Web -----> Web -----> Spring Boot版本(默认即可)
-![创建4.png](https://upload-images.jianshu.io/upload_images/3012005-50a5a2138872929b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
+![创建4.png](https://upload-images.jianshu.io/upload_images/3012005-50a5a2138872929b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/700)
 
     5. 选择项目保存的文件夹
 ![创建5.png](https://upload-images.jianshu.io/upload_images/3012005-0cd4e1e9cb939640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
