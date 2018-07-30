@@ -21,19 +21,31 @@
 <div align="center">
     <img src="https://upload-images.jianshu.io/upload_images/3012005-7742be37106c16f9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
 </div>
-![创建1.png](https://upload-images.jianshu.io/upload_images/3012005-7742be37106c16f9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
+
 
     2. 选择 Spring Initializr 
-![创建2.png](https://upload-images.jianshu.io/upload_images/3012005-a8d88cb7188bd499.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
+<div align="center">
+    <img src="https://upload-images.jianshu.io/upload_images/3012005-a8d88cb7188bd499.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
+</div>   
+
  
     3. Project Matedata
-![创建3.png](https://upload-images.jianshu.io/upload_images/3012005-6887d50074b04b23.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
+<div align="center">
+    <img src="https://upload-images.jianshu.io/upload_images/3012005-6887d50074b04b23.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
+</div>   
+
 
     4. 选择Web -----> Web -----> Spring Boot版本(默认即可)
-![创建4.png](https://upload-images.jianshu.io/upload_images/3012005-50a5a2138872929b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/700)
+<div align="center">
+    <img src="https://upload-images.jianshu.io/upload_images/3012005-50a5a2138872929b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/700">
+</div>   
+
 
     5. 选择项目保存的文件夹
-![创建5.png](https://upload-images.jianshu.io/upload_images/3012005-0cd4e1e9cb939640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
+<div align="center">
+    <img src="https://upload-images.jianshu.io/upload_images/3012005-0cd4e1e9cb939640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
+</div>   
+
 
     6. 创建完成 查看项目目录
         |--src:源代码文件 
