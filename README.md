@@ -18,6 +18,9 @@
 **如图所示**
 
     1. File -----> New ------> Project...
+<div align="center">
+    <img src="https://upload-images.jianshu.io/upload_images/3012005-7742be37106c16f9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
+</div>
 ![创建1.png](https://upload-images.jianshu.io/upload_images/3012005-7742be37106c16f9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
 
     2. 选择 Spring Initializr 
