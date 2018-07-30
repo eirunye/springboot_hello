@@ -58,16 +58,28 @@
            |--test:主要是用于测试
            |--pom.xml:是添加依赖文件、版本号、打包设置为Jar或者War等 (如下图:pom.xml.png)
        |--target:是项目打包生成的.jar文件在这里   
-![项目目录结构6.png](https://upload-images.jianshu.io/upload_images/3012005-eeecc6cb6fc171dc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
+<div align="center">
+    <img src="https://upload-images.jianshu.io/upload_images/3012005-eeecc6cb6fc171dc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
+</div>   
+
 
     7. 查看 pom.xml
-![pom.xml.png](https://upload-images.jianshu.io/upload_images/3012005-f339f5fbed904ad7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
+<div align="center">
+    <img src="https://upload-images.jianshu.io/upload_images/3012005-f339f5fbed904ad7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
+</div>  
+
      
     8. 编辑配置application.properties 文件 一般需要配置一些端口，数据库连接、编码方式等，如下图
-![application.properties.png](https://upload-images.jianshu.io/upload_images/3012005-041e35ae669efa54.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
+<div align="center">
+    <img src="https://upload-images.jianshu.io/upload_images/3012005-041e35ae669efa54.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
+</div> 
+
   
     9. 程序的入口文件
-![程序入口Application.png](https://upload-images.jianshu.io/upload_images/3012005-15e6598f02ab7c2b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
+<div align="center">
+    <img src="https://upload-images.jianshu.io/upload_images/3012005-15e6598f02ab7c2b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
+</div> 
+
 
 
     10. 编写简单的例子 如下图所示:
@@ -76,25 +88,43 @@
           @RestController ---->默认Json格式数据
           @GetMapping(value = "/hello") 'hello':表示访问路径
           解下来的文章会讲述到更多的注解......
-![controller.class.png](https://upload-images.jianshu.io/upload_images/3012005-0f3f42f1454efee5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
+<div align="center">
+    <img src="https://upload-images.jianshu.io/upload_images/3012005-0f3f42f1454efee5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
+</div> 
+
     
 > **二、运行项目**
     
     1. 运行是否正常
     2. 结果
+<div align="center">
+    <img src="https://upload-images.jianshu.io/upload_images/3012005-9bf6556f71b9fad4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
+</div> 
 ![运行项目1.png](https://upload-images.jianshu.io/upload_images/3012005-9bf6556f71b9fad4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
-![运行项目2.png](https://upload-images.jianshu.io/upload_images/3012005-5614d3b09ec72898.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
+<div align="center">
+    <img src="https://upload-images.jianshu.io/upload_images/3012005-5614d3b09ec72898.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
+</div> 
+
 
     3. 访问测试:
 
     (1). 浏览器访问
-![访问结果1.png](https://upload-images.jianshu.io/upload_images/3012005-0a1c0d33cc3d922c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
+<div align="center">
+    <img src="https://upload-images.jianshu.io/upload_images/3012005-0a1c0d33cc3d922c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
+</div> 
+
    
     (2). IDEA 自带的访问(推荐)
-![访问结果2.png](https://upload-images.jianshu.io/upload_images/3012005-9e8238ce358139eb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
+<div align="center">
+    <img src="https://upload-images.jianshu.io/upload_images/3012005-9e8238ce358139eb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
+</div> 
+
 
     (3). Postman 访问(推荐)
-![Postman访问3.png](https://upload-images.jianshu.io/upload_images/3012005-a5d90d90d61382ff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650)
+<div align="center">
+    <img src="https://upload-images.jianshu.io/upload_images/3012005-a5d90d90d61382ff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
+</div> 
+
 
 ***下载 [Postman](https://www.getpostman.com/) 安装***
 
