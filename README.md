@@ -87,7 +87,7 @@
       添加注解:
           @RestController ---->默认Json格式数据
           @GetMapping(value = "/hello") 'hello':表示访问路径
-          解下来的文章会讲述到更多的注解......
+          接下来的文章会讲述到更多的注解......
 <div align="center">
     <img src="https://upload-images.jianshu.io/upload_images/3012005-0f3f42f1454efee5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
 </div> 
