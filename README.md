@@ -3,7 +3,7 @@
 接下来我们将学习如何创建第一个Spring Boot项目 ***hello Spring Boot!*** 呢？
 
 <div align="center">
-    <img src="https://upload-images.jianshu.io/upload_images/3012005-ab363c756e658c99.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/650">
+    <img src="https://upload-images.jianshu.io/upload_images/3012005-ab363c756e658c99.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/400">
 </div>
 
 
